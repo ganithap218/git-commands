@@ -1,2 +1,16 @@
-# git-commands
-day2 eee kits
+# Git-commands
+- git init
+- git clone "repolink"
+- git status
+- git add filename
+- git add
+- git config user.name "username"
+- git config user .email "email"
+- git commit -m "commitmessage"
+- git log
+- git log --oneline
+- git remove -v
+- git remove add remotename "repolink"
+- git push remotename branchname
+- git pull remotename branchname
+- git status
